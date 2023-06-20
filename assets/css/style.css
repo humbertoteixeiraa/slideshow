@@ -17,7 +17,7 @@ header {
 
 .header {
     height: 50px;
-    background-color: red;
+    margin-bottom: 10px;
 }
 
 .slider {
@@ -48,11 +48,7 @@ header {
     align-items: center;
 }
 
-.slider--control {
-    width: 50px;
+.slider--control img{
     height: 50px;
-    background-color: #fff;
-    border-radius: 50%;
-    overflow: hidden;
     cursor: pointer;
 }
