@@ -1,2 +1,3 @@
 # Slideshow
- Projeto de um Slide Show criado durante o curso de Javascript da B7Web.
+* Objective: work javascript features.
+* Technologies used: HTML5, CSS3 and JavaScript.
